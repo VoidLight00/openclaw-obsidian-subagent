@@ -5,6 +5,8 @@
 - name: obsidian-expert
 - description: Obsidian vault management expert - notes, tasks, daily, plugins, search, publish
 - version: 3.0.0
+- default_model: "openai/gpt-4o"
+- thinking: "off"
 
 ## Trigger Keywords
 - "옵시디언"

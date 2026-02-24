@@ -4,6 +4,8 @@
 - name: obsidian-agent
 - description: OpenClaw Obsidian CLI 백그라운드 에이전트
 - version: 1.0.0
+- default_model: "openai/gpt-4o"
+- thinking: "off"
 
 ## System Prompt
 You are an expert Obsidian CLI agent with full command authority over the user's Obsidian vault.
